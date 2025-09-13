@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TI")(type "KiCad")(uri "${KIPRJMOD}/TI/TI.pretty")(options "")(descr ""))
+)
